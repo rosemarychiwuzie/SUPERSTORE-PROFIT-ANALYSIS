@@ -6,7 +6,7 @@ I collected the superstore data from an online source (kaggle) and proceeded to 
 I sought to answer some questions which are:
 -Bottom 10 cities generating the lowest profit
 - Top 10 cities generating the highest profit
--Product (category) with the most sales
+-Products (category) with the most sales
 -Profit variation by segment
 -Sales frequency by regions
 -Products with the most profit
@@ -42,6 +42,13 @@ Copiers, phones, accessories, paper, binders generate the most profit for the su
 
 [a NEW MY PROJECT SUPERSTORE PROFIT ANALYSIS.pdf](https://github.com/rosemarychiwuzie/SUPERSTORE-PROFIT-ANALYSIS/files/9118932/a.NEW.MY.PROJECT.SUPERSTORE.PROFIT.ANALYSIS.pdf)
 
+
+RECOMMENDATIONS
+•	TO INCREASE SALES, MORE INCENTIVES SHOULD BE CREATED IN  CITIES MAKING THE LEAST SALES AND GENERATING THE LEAST PROFIT LIKE 
+LANCASTER,HOUSTON,BURLINGTON AND OTHERS. INCENTIVES LIKE A BONUS OR REWARD OF A FREE GIFT IF A PURCHASE IS MADE
+•	UPSELLING THE PRODUCTS IN REGIONS LIKE THE WEST AND CITIES LIKE LAFAYETTE WITH A BOOM IN SALES IN ORDER TO RAISE MORE PROFIT.
+•	OFFICE SUPPLIES ARE APPARENTLY IN HIGH DEMAND, THERE SHOULD BE CONSTANT AVAILABILITY OF SUCH TO INCREASE SALES
+•	ADVERT PLACEMENTS IN CITIES DOING POORLY IN SALES IS A MUST TO PROMOTE AWARENESS OF THE SUPERSTORE AND INCREASE SALES
 
 
 
