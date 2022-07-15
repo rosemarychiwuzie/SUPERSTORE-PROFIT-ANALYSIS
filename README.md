@@ -12,6 +12,7 @@ I sought to answer some questions which are:
 -Products with the most profit
 
 Having ascertained the issues to deal with,I proceeded to clean the data ensuring there were no duplicates or outliers which may impugn the validity of the data via Microsoft Excel after which I created  a dashboard in Power BI to represent the results visually
+![squarequick_202271585450516](https://user-images.githubusercontent.com/108612390/179179162-0767ef87-5036-444b-81f4-42b2bb2bc8e7.jpg)
 
 # BOTTOM 10 CITIES WITH THE LEAST PROFIT
 ![squarequick_202271574910931](https://user-images.githubusercontent.com/108612390/179171051-a78c509f-caed-4838-b7f6-7b1be8933b2c.jpg)
@@ -43,7 +44,7 @@ Copiers, phones, accessories, paper, binders generate the most profit for the su
 [a NEW MY PROJECT SUPERSTORE PROFIT ANALYSIS.pdf](https://github.com/rosemarychiwuzie/SUPERSTORE-PROFIT-ANALYSIS/files/9118932/a.NEW.MY.PROJECT.SUPERSTORE.PROFIT.ANALYSIS.pdf)
 
 
-RECOMMENDATIONS
+# RECOMMENDATIONS
 •	TO INCREASE SALES, MORE INCENTIVES SHOULD BE CREATED IN  CITIES MAKING THE LEAST SALES AND GENERATING THE LEAST PROFIT LIKE 
 LANCASTER,HOUSTON,BURLINGTON AND OTHERS. INCENTIVES LIKE A BONUS OR REWARD OF A FREE GIFT IF A PURCHASE IS MADE
 •	UPSELLING THE PRODUCTS IN REGIONS LIKE THE WEST AND CITIES LIKE LAFAYETTE WITH A BOOM IN SALES IN ORDER TO RAISE MORE PROFIT.
