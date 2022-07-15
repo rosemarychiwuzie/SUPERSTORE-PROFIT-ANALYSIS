@@ -23,22 +23,24 @@ Lancaster appears to be the city generating the least profit followed by  Housto
 Lafayette is the city generating the most profit  followed by Seattle, Newark
 
 # PRODUCTS WITH THE MOST SALES
-![squarequick_202271575923815](https://user-images.githubusercontent.com/108612390/179171304-a7905f9c-4d83-4689-b65c-17c22b39422f.jpg)
-
-Office supplies are bought in higher quantity com
+![squarequick_20227158315576](https://user-images.githubusercontent.com/108612390/179175310-6a792b30-4c47-4f52-83f5-58d5d8c24d92.jpg)
+Binders,papers,furnishings, phones are in higher demand compared to other products
 
 # PROFIT VARIATION BY SEGMENTS
 ![squarequick_202271574921630](https://user-images.githubusercontent.com/108612390/179171407-d724d8d0-cb6f-4653-a20c-9a495d4c4f32.jpg)
-
+The consmers are at the top of purchases with 46.8% of purchases followed by the corporate body with 32.12% and the Home office with 32.12%
 
 # SALES FREQUENCY BY REGIONS
 ![squarequick_202271574937591](https://user-images.githubusercontent.com/108612390/179171476-60b5e43e-6d5b-48c1-b493-a2556b972d5b.jpg)
-
+The western region of the United states have made the most purchases with over 3,000 purchases and the south is at its lowest with less than 2000 purchases
 
 # PRODUCTS WITH THE MOST PROFIT
-![squarequick_20227158012537](https://user-images.githubusercontent.com/108612390/179171536-0658bb06-d797-4030-8757-41f819f536c8.jpg)
+![squarequick_202271583055176](https://user-images.githubusercontent.com/108612390/179175424-7706cb5c-b1b9-4c74-9ec7-e844a3d4ab31.jpg)
+
+Copiers, phones, accessories, paper, binders generate the most profit for the superstore company
 
 
+[a NEW MY PROJECT SUPERSTORE PROFIT ANALYSIS.pdf](https://github.com/rosemarychiwuzie/SUPERSTORE-PROFIT-ANALYSIS/files/9118932/a.NEW.MY.PROJECT.SUPERSTORE.PROFIT.ANALYSIS.pdf)
 
 
 
