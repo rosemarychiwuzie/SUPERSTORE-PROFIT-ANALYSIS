@@ -5,25 +5,27 @@ Superstore, a commercial enterprise with over 500 stores spread across 4 regions
 I collected the superstore data from an online source (kaggle) and proceeded to access the data to properly understand the statistics and mode of operations of the superstore company and deduced that the profit margin is higher in some cities and quite low in some other cities so I decided to make a profit analysis to review this profit margin, draw insights and profer solutions to the cause of poor sales.
 I sought to answer some questions which are:
 
--Bottom 10 cities generating the lowest profit
+- Bottom 10 cities generating the lowest profit
 
--Top 10 cities generating the highest profit
+- Top 10 cities generating the highest profit
 
--Products with the most sales
+- Products with the most sales
 
 - Products with the least sales
 
--Products with the most profit
+- Products with the most profit
 
--Sales frequency by regions
+- Sales frequency by regions
 
--Profit variation by segment
+- Profit variation by segment
 
 
 Having ascertained the issues to deal with,I proceeded to clean the data ensuring there were no duplicates or outliers which may impugn the validity of the data via Microsoft Excel after which I created  a dashboard in Power BI to represent the results visually
 ![20220717_104555](https://user-images.githubusercontent.com/108612390/179392957-d47683e8-2b6a-441d-a739-e684e7e0f814.jpg)
 
 
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
 # BOTTOM 10 CITIES GENERATING THE LEAST PROFIT
 ![20220717_102639](https://user-images.githubusercontent.com/108612390/179392948-e0a3cc6f-8702-4c14-9bc0-b8e329670108.jpg)
 
@@ -40,6 +42,18 @@ New york City is the city generating the most profit with a total of $62,037 fol
 ![20220717_102737](https://user-images.githubusercontent.com/108612390/179393295-25fbe219-4fba-4113-830f-8fdd82af8cf0.jpg)
 
 Binders with the most number of sales has sold over 5,900 quantity, followed by papers with total quantity of sales to be 5,178,furnishings with 3,563 quantities sold, etcetera
+
+
+# PRODUCTS WITH THE LEAST SALES
+![20220717_102759](https://user-images.githubusercontent.com/108612390/179393875-1e65df6f-c3f2-4a04-a2e3-aa996eb1b93d.jpg)
+Products with the lowest quantity in demand includes Copiers at the bottom of the list followed by Machines,Supplies, Bookcases, etcetera
+
+
+
+# PRODUCTS GENERATING THE MOST PROFIT
+![20220717_102832](https://user-images.githubusercontent.com/108612390/179394010-705eb8c4-649c-464c-8b8d-604e1af0bb5a.jpg)
+Copiers appears to be generating the highest profit for the company with a total profit of $55,617 although it has the least number in demand, followed by Phones with $44,514 in total revenue, Accessories with $41,935, etcetera
+
 
 
 # SALES FREQUENCY BY REGIONS
