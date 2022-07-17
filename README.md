@@ -21,42 +21,56 @@ I sought to answer some questions which are:
 
 
 Having ascertained the issues to deal with,I proceeded to clean the data ensuring there were no duplicates or outliers which may impugn the validity of the data via Microsoft Excel after which I created  a dashboard in Power BI to represent the results visually
+
 ![20220717_104555](https://user-images.githubusercontent.com/108612390/179392957-d47683e8-2b6a-441d-a739-e684e7e0f814.jpg)
 
 
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+
+
 # BOTTOM 10 CITIES GENERATING THE LEAST PROFIT
+
 ![20220717_102639](https://user-images.githubusercontent.com/108612390/179392948-e0a3cc6f-8702-4c14-9bc0-b8e329670108.jpg)
 
-Jackson Ville appears to be the city generating the least profit with a total deficit of -$2,323 followed by Aurora with total deficit of -$2,691, Phoenix with-$2,790, Dallas with -$2,846
+Jackson Ville appears to be the city generating the least profit with a total deficit of -$2,323 followed by Aurora with total deficit of -$2,691, Phoenix with-$2,790, Dallas with -$2,846,etcetera
 
 
 # TOP 10 CITIES WITH THE HIGHEST PROFIT
+
 ![20220717_102711](https://user-images.githubusercontent.com/108612390/179393208-402aa02d-ebc4-46c1-aad2-492d5e725fad.jpg)
 
 New york City is the city generating the most profit with a total of $62,037 followed by Los Angeles with $30,440,Seattle with $29,156, San Francisco with $17,507, etcetera
 
 
 # PRODUCTS WITH THE MOST SALES
+
 ![20220717_102737](https://user-images.githubusercontent.com/108612390/179393295-25fbe219-4fba-4113-830f-8fdd82af8cf0.jpg)
 
 Binders with the most number of sales has sold over 5,900 quantity, followed by papers with total quantity of sales to be 5,178,furnishings with 3,563 quantities sold, etcetera
 
 
 # PRODUCTS WITH THE LEAST SALES
+
 ![20220717_102759](https://user-images.githubusercontent.com/108612390/179393875-1e65df6f-c3f2-4a04-a2e3-aa996eb1b93d.jpg)
-Products with the lowest quantity in demand includes Copiers at the bottom of the list followed by Machines,Supplies, Bookcases, etcetera
+ 
+ Products with the lowest quantity in demand includes Copiers at the bottom of the list followed by Machines,Supplies, Bookcases, etcetera
 
 
 
 # PRODUCTS GENERATING THE MOST PROFIT
+
 ![20220717_102832](https://user-images.githubusercontent.com/108612390/179394010-705eb8c4-649c-464c-8b8d-604e1af0bb5a.jpg)
+
 Copiers appears to be generating the highest profit for the company with a total profit of $55,617 although it has the least number in demand, followed by Phones with $44,514 in total revenue, Accessories with $41,935, etcetera
 
 
 
 # SALES FREQUENCY BY REGIONS
+
 ![20220717_102928](https://user-images.githubusercontent.com/108612390/179393607-a03b994c-ec14-4956-bb97-37091f7924e1.jpg)
 
 The western region of the United states has the most purchases with over 3,000 purchases and the south is at its lowest with less than 2000 purchases
@@ -64,6 +78,7 @@ The western region of the United states has the most purchases with over 3,000 p
 
 
 # PROFIT VARIATION BY SEGMENTS
+
 ![20220717_103015](https://user-images.githubusercontent.com/108612390/179393666-feba8b7a-eaf8-418f-95dd-8f0442021d76.jpg)
 
 The consmers are at the top of purchases with 46.8% of purchases followed by the corporate body with 32.12% and the Home office with 32.12%
